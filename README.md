@@ -1,8 +1,8 @@
-# Hi, I'm Sarthak Hire 👋
+# Hi, I'm Sarthak👋
 
-🎓 **Electronics and Computer Engineering Student**
-💻 **Aspiring Software Developer**
-🚀 Learning in public and building projects along the way.
+🎓 **Electronics and Computer Engineering Student**<br/>
+💻 **Aspiring Software Developer**<br/>
+🚀 Learning in public and building projects along the way.<br/>
 
 I'm currently focused on building a strong foundation in **Web Development, DSA, and programming fundamentals**. I believe in learning by building, documenting my progress, and improving one step at a time.
 
