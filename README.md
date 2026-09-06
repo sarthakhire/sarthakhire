@@ -12,9 +12,9 @@ I'm currently focused on building a strong foundation in **Web Development, DSA,
 
 * 🌐 **Web Development**
 
-  * HTML
-  * CSS
-  * JavaScript *(next)*
+  * HTML *(Done)*
+  * CSS  *(Done)*
+  * JavaScript *(current)*
   * MERN Stack *(later)*
 
 * 🧠 **Data Structures & Algorithms**
@@ -36,21 +36,38 @@ I'm currently focused on building a strong foundation in **Web Development, DSA,
 
 ## 🛠️ Technologies & Tools
 
-### Currently Learning
+## 🧑‍💻 Currently Learning
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,cpp" />
+</p>
 
-### Tools
+## 🛠️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
 
 ---
 
 ## 🚀 Projects
+
+### 📊 DevFlow
+
+A developer productivity dashboard built with **HTML & CSS** to practice and apply what I learned.
+
+**Features:**
+- 📈 Learning progress
+- 📁 Projects
+- 🎯 Goals
+- 📚 Resources
+- 📱 Responsive design
+- ✨ Interactive UI states
+
+🔗 [View Repository](https://github.com/sarthakhire/DevFlow)
+
+---
+
 
 ### 🎮 GameHub
 
@@ -139,9 +156,16 @@ I'm documenting my journey publicly and sharing what I learn, the projects I bui
 
 ## 🌐 Connect With Me
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/Sarthak_Hire)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sarthakhire?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sarthakhire)
+<p>
+  <a href="https://www.linkedin.com/in/sarthakhire?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+
+ 
+  <a href="https://x.com/Sarthak_Hire">
+   <img src="https://cdn.simpleicons.org/x/white" width="35" />
+  </a>
+</p>
 
 ---
 
