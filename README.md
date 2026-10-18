@@ -35,4 +35,18 @@ My portfolio site, built alongside my web development learning.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/sarthakhire) · [X](https://x.com/Sarthak_Hire) · [Email](mailto:hiresarthak007@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/sarthakhire">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/Sarthak_Hire">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/000000">
+      <img src="https://cdn.simpleicons.org/x/000000" width="40" alt="X" />
+    </picture>
+  </a>
+</p>
+
+📧 [hiresarthak007@gmail.com](mailto:hiresarthak007@gmail.com)
