@@ -16,11 +16,11 @@ Electronics and Computer Engineering student (batch of 2029) based in Nashik, In
 
 ### DevFlow
 A responsive developer productivity dashboard for tracking learning progress, projects, goals and resources. Built with HTML and CSS, including interactive UI states.
-[Code](https://github.com/sarthakhire/DevFlow) · [Live demo](ADD_LINK)
+[Code](https://github.com/sarthakhire/DevFlow) · [Live demo](https://sarthakhire.github.io/devflow/)
 
 ### GameHub
 A multi-page game information website built to practice semantic HTML.
-[Code](https://github.com/sarthakhire/html-learning) · [Live demo](ADD_LINK)
+[Code](https://github.com/sarthakhire/html-learning) 
 
 ### Personal Portfolio (in progress)
 My portfolio site, built alongside my web development learning.
